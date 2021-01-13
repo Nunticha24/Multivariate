@@ -1,6 +1,6 @@
 # Multivariate
 
-### นันทิชา ID 623020526-
+### นันทิชา ID 623020526-8
 
 .md => Markdown
 
